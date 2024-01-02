@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.5.17",
-    "postcss": ">=8.4.31"
+    "postcss": "^8.4.32"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
@@ -19,7 +19,7 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
     "vue-template-compiler": "^2.5.17",
-    "postcss": "~>8.4.32"
+    "postcss": "^8.4.32"
   },
   "eslintConfig": {
     "root": true,
